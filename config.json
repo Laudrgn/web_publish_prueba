@@ -1,7 +1,10 @@
 {
   "name": "XXX:edit config.json",
   "description": "This is a placeholder description.",
+"brand": "Mi sitio",
+	
 	"navbar_items": [
+		
 		{
 			"name": "Contact me",
 			"url": "about:blank"
